@@ -84,7 +84,7 @@ npm run build
 
 3、到 https://github.com/你的名字/nav/settings/secrets/new  添加刚刚申请的token， name填写 `TOKEN`。
 
-4、当推送内容到仓库后会自动部署， 打开 https://你的名字.github.io/nav  即可看到。
+4、当推送内容到仓库后会自动部署（利用github actions）， 打开 https://你的名字.github.io/nav  即可看到。
 
 5、打开 https://你的名字.github.io/nav 就能看到一个非常强大的导航网站了。
 
