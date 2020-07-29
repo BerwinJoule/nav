@@ -16,7 +16,7 @@ jobs:
         npm install
         npm run build
     - name: Install and Build Static
-      if: github.repository == 'xjh22222228/nav'
+      if: github.repository == 'BerwinJoule/nav'
       run: |
         npm install
         npm run build-static
