@@ -1,7 +1,7 @@
 /**
  * 所有配置通过此文件进行配置
  * @author xiejiahe
- * @url https://github.com/xjh22222228/nav
+ * @url https://github.com/BerwinJoule/nav
  */
 
 export const appLanguage = [
@@ -20,7 +20,7 @@ export const webpLanguage = [
 export const start = new Date(2018, 3, 26, 0, 0, 0, 0);
 
 // 如果没有请赋值空字符串
-export const git = 'https://github.com/xjh22222228/nav';
+export const git = 'https://github.com/BerwinJoule/nav';
 
 export const caseNumber = '粤ICP备16052285号';
 
